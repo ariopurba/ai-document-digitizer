@@ -1,0 +1,7 @@
+docling==2.151.1
+docling-core==2.108.0
+rapidocr==3.10.0
+onnxruntime==1.32.0
+# Synthetic PDF/image fixtures and tests
+PyMuPDF==2.1
+pytest==9.2.0

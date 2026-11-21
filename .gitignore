@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.DS_Store
+.cache/
+.models/
+*.tmp
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+
+# Local configuration and browser tooling
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.playwright/
+.playwright-cli/
